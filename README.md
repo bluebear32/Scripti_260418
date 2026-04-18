@@ -1003,7 +1003,7 @@
  1008  dnf update -y
  1009  dnf update -y --skip-broken
  1010  dnf update -y --nobest
- 1011  
+ 1011   M
  1012  sudo dnf install virt-manager -y
  1013  virsh list --all
  1014  history
